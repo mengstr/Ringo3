@@ -1,10 +1,19 @@
 
-
-
+#
+# CATHODE BUSES
+#
 http://www.smallroomlabs.com/eagle/wire_circle.php?radius=47&xoffset=50&yoffset=50&steps=360&signal=CA1-BUS&layer=BOTTOM&decimals=3&wire=0.2286
 http://www.smallroomlabs.com/eagle/wire_circle.php?radius=44.7&xoffset=50&yoffset=50&steps=360&signal=CA2-BUS&layer=BOTTOM&decimals=3&wire=0.2032
 http://www.smallroomlabs.com/eagle/wire_circle.php?radius=44.25&xoffset=50&yoffset=50&steps=360&signal=CA3-BUS&layer=BOTTOM&decimals=3&wire=0.2032
 http://www.smallroomlabs.com/eagle/wire_circle.php?radius=49.3&xoffset=50&yoffset=50&steps=360&signal=CA4-BUS&layer=TOP&decimals=3&wire=0.2032
 http://www.smallroomlabs.com/eagle/wire_circle.php?radius=42&xoffset=50&yoffset=50&steps=360&signal=CA5-BUS&layer=BOTTOM&decimals=3&wire=0.2032
 
+# LEDS
+http://www.smallroomlabs.com/eagle/circle_led.php?radius=42&xoffset=50&yoffset=50&steps=60&angleoffset=90&startoffset=0&decimals=3&name=D&first=61&mirror=on&ccw=on
 http://www.smallroomlabs.com/eagle/circle_led.php?radius=37&xoffset=50&yoffset=50&steps=12&angleoffset=90&startoffset=0&decimals=3&name=D&first=121&mirror=on&ccw=on
+
+
+# RESISTORS
+http://www.smallroomlabs.com/eagle/circle_led.php?radius=35&xoffset=50&yoffset=50&steps=12&angleoffset=270&startoffset=15&decimals=3&name=W&first=1&mirror=on&ccw=on
+http://www.smallroomlabs.com/eagle/circle_led.php?radius=35&xoffset=50&yoffset=50&steps=12&angleoffset=270&startoffset=22.5&decimals=3&name=W&first=13&mirror=on&ccw=on
+http://www.smallroomlabs.com/eagle/circle_led.php?radius=35&xoffset=50&yoffset=50&steps=12&angleoffset=270&startoffset=7.5&decimals=3&name=W&first=25&mirror=on&ccw=on
